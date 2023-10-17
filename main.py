@@ -1,4 +1,4 @@
-import PySimpleGUI as sg
+import PySimpleGUI as sg # pip install PySimpleGUI
 import requests
 import json
 
